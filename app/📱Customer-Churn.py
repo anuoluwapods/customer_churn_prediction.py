@@ -14,7 +14,7 @@ col1.markdown(header, unsafe_allow_html=True)
 subheader = '<p style="font-family:sans-serif; color:Grey;">We created this webapp to help reduce the high rate of customer churn in telecommunication industries.</p>'
 col1.markdown(subheader, unsafe_allow_html=True)
 col1.write("[![Ayobami's Page](https://img.icons8.com/material-outlined/24/undefined/github.png)](https://github.com/Ayobami6) Ayobami's Page") 
-col1.write("[![Project Page](https://img.icons8.com/material-outlined/24/undefined/github.png)](https://github.com/Ayobami6/ProjectCollaboration.github.io) Project Source Code")
+col1.write("[![Project Page](https://img.icons8.com/material-outlined/24/undefined/github.png)](https://github.com/Designegycreatives/customer_churn_prediction.py) Project Source Code")
 col1.write("[![Designegycreatives's Page](https://img.icons8.com/material-outlined/24/undefined/github.png)](https://github.com/Designegycreatives) Designegy Creatives's Page")
 col2.image(image)
 
