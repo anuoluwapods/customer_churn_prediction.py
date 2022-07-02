@@ -59,7 +59,6 @@ try:
 except:
     pass
 st.success(default_check)
-st.balloons()
 
 
 # if __name__ == '__app__':
