@@ -32,9 +32,9 @@ def generateprediction(data):
     print(makeprediction)
 
     if (makeprediction[0] == 'Churned'):
-        return 'The Customer will Churn 😲 '
+        st.write('The Customer will Churn 😲')
     else:
-        return 'The Customer will Stay 🤑'
+        st.write('The Customer will Stay 🤑')
 
 # Creating a function for main app interface
 # input data
