@@ -54,7 +54,7 @@ try:
 # prediction code
     if st.button('Predict'):
         default_check = generateprediction([ Age, Number_of_Dependents, Number_of_Referrals, Tenure_in_Months,
-                                             Monthly_Charge, Total_Charges]])
+                                             Monthly_Charge, Total_Charges])
 
 except:
     pass
